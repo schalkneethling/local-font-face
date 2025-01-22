@@ -1,0 +1,10 @@
+@font-face {
+  font-family: Inter;
+  src: local("Inter");
+}
+
+h1,
+p {
+  /* stylelint-disable-next-line font-family-no-missing-generic-family-keyword */
+  font-family: Inter;
+}
